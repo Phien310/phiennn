@@ -34,7 +34,7 @@
 
     .s-full-with,
     .s-col-full{
-        width: 100%;
+        width: 100% !important;
     }
 
 
